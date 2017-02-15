@@ -6,7 +6,7 @@ sklearn (sci kit learn machine learning library)
 matplotlib
 numpy
 pandas
-#opencv (optional)
+opencv (optional)
 
 Goal: Build a data mining suite, where a function can be passed in that formats/reads the data in way for the automated scripts to read and therefore mine everything given a set of file patterns or list of files. 
 
