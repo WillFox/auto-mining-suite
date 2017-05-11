@@ -1,0 +1,31 @@
+abalone:
+  data: https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data
+  description: https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.names
+  headers: 
+    - Sex
+    - Length
+    - Diameter
+    - Height
+    - Whole weight
+    - Shucked Weight
+    - Viscera weight
+    - Shell weight
+    - Rings
+adult:
+  data: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+  description: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
+  headers:  
+    - salaray>50k
+    - age
+    - workclass
+    - fnlwgt
+    - education,
+    - marital status
+    - occupation
+    - relationship
+    - race
+    - sex
+    - capital-gain
+    - capital-loss
+    - hours-per-week
+    - native-country
